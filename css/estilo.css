@@ -1,0 +1,47 @@
+head{
+font-size: 15px;
+font-family: Arial;
+font-weight: bold;
+text-align: center;
+
+}
+
+
+body{
+    
+    font-family: Georgia,Helvetica;
+    padding: 10px 20px;
+    background-color: #58b84f;
+    text-align: left;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+#imagen{
+	
+	float: right;
+	border-radius: 10px;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+#series{
+font-family: Georgia,Helvetica;
+font-weight: bold;
+text-align: left;
+
+
+}
+
+#pelis{
+font-family: Georgia,Helvetica;
+font-weight: bold;
+text-align: left;
+}
+
+
+
